@@ -1,6 +1,6 @@
 # Copt37
 
-![COPT37](https://imgur.com/a/VwzWMJf)
+![COPT37](https://i.imgur.com/puf3pA6.jpeg)
 
 A 37-key keyboard with English and Coptic keycap legends. [Vial](https://get.vial.today/) compatible.
 
